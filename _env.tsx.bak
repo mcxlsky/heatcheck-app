@@ -1,3 +1,1 @@
-# This file was incorrectly named _env.tsx and caused build errors
-# Content moved to .env.example
-# This backup can be deleted
+// This file was removed to fix build errors
